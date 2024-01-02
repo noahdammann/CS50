@@ -1,0 +1,22 @@
+{% extends 'app/layout.html' %}
+
+{% block body %}
+    <header>
+        <h1>New Post</h1>
+    </header>
+        <form action="{% url 'new' %}" method="post">
+            {% csrf_token %}
+            <div class="new">
+                <input type="text" id="new-title" name="title" placeholder="Title">
+            </div>
+            <div class="new4">
+                <input type="text" id="new-url" name="url" placeholder="URL">
+            </div>
+            <div class="new2">
+                <textarea id="new-textarea" name="content" placeholder="Content"></textarea>    
+            </div>
+            <div class="new3">
+                <input type="submit" id="post-button" value="Post">
+            </div>
+        </form>
+{% endblock %}

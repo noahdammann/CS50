@@ -1,0 +1,9 @@
+{% extends 'app/layout.html' %}
+
+{% block body %}
+    <div class="post-page">
+        <h1 id="title">{{ post.title }}</h1>
+        <p id="time">{{ post.time }}</p>
+        <p id="content">{{ post.content }}</p>
+    </div>
+{% endblock %}

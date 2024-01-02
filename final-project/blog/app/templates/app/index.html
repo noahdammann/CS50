@@ -1,0 +1,24 @@
+{% extends 'app/layout.html' %}
+{% load static %}
+
+{% block body %}
+    <div class="header">
+        Noah Dammann
+    </div>
+    <div class="divider">
+        <hr class="left"><h4>Recent Posts</h4><hr class="right">
+    </div>
+    <div class="post-container">
+        {% for post in posts %}
+            <a href="{% url 'post' post.pk %}">
+                <div class="content">
+                    <img class="post-img" src="{{ post.url }}">
+                    <div class="img-footer">
+                        <p class="post-title">{{ post.title }}</p>
+                        <p class="post-time">{{ post.time }}</p>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+{% endblock %}
