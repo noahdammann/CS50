@@ -1,0 +1,15 @@
+# Noah Dammann Blog
+
+This is my final CS50 edX project. On completion I have now finished Harvards Computer Science 50 module.
+
+#### Video Demo:
+
+https://youtu.be/sPLY_L9671Y
+This short 2 minute video has no audio and just simply runs through all of the pages of the website. It also shows the functionality of signing up to the newsletter as well as creating a new post.
+
+#### Description:
+
+I created my own blog website to share my thoughs on fitness. I created the site using the django framework on the backend and HTML and CSS on the frontend. There are 6 url paths corresponding to 6 routes defined in views.py. There are 7 different HTML templates and a single static CSS file. There are 2 models, Post and Subscriber which are registered in admin.py. No tests have been written for this application, but it runs perfectly on the django virtual server. The website is mobile responsive. Only the administrator can visit the /new url path and from there, can add a new blog post. The blog features a newsletter which users can sign up for, to then be added to a mailing list which can then be accessed to send all subscibers emails. The blog uses a very simple design which is easy to read so that users have a good experience on the website. The general layout of this blog was inspired by Julian Shapiro's blog and uses a similar theme for headings and text. The home page makes use of the flexbox display to size all of the posts into a container which is then mobile responsive and adjusts according to the users device size. The HTML pages all inherit from a single "layout.html" page in order to minimize repetitive code. Similarly all pages inherit styling from a single "styles.css" page. The backend server seamlessly generates all of the posts that are stored by django, and loads them onto the home page upon rendering. The posts are scaled according to the users device and are centered on the page. The backend also automatically stores all of the email addresses which users sign up with for the newsletter. Each article written can be associated with an image which will the be displayed as its thumbnail on the homepage. Ultimately this project was not about creating a blogging website, instead it was a good opportunity for me to get some practice in creating websites and a useful addition to my portfolio of projects. I've learned more about how to use the django framework and write good code. This blog was created to be the final project for the CS50 computer science course of Harvard University. The course was the very first introduction I had to computer science and programming and looking back at where I came from I've learned so much. I'm grateful to professor Malan and his team for making CS50 happen and making it possible for me to learn how to program for free online. 
+
+#### Conclustion: 
+This project symbolizes the end of my CS50 journey but marks the beginning of my programming journey. I hope to be able to put the skills that I learnt here to use in website development and other areas of programming.

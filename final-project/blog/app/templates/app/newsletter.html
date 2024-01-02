@@ -1,0 +1,17 @@
+{% extends 'app/layout.html' %}
+
+{% block body %}
+    <div id="newsletter-container">
+        <h1 id="newsletter-title">Sign up to receive my exclusive thoughts on training, nutrition and recovery!</h1>
+        <div id="newsletter-form">
+            <form method="post" action="{% url 'newsletter' %}">
+                {% csrf_token %}
+                <input type="email" name="email" placeholder="Enter your Email Address">
+                <div class="center">
+                    <input type="submit" value="Sign Up" id="newsletter-button">
+                </div>
+            </form>
+        </div>
+    </div>
+    <p id="newsletter-description">New email every 2 weeks!</p>
+{% endblock %}

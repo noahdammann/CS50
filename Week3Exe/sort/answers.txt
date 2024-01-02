@@ -1,0 +1,57 @@
+// Sort1
+    sort1 uses: Bubble sort
+
+    How do you know?:
+    // For random order
+    0.099s for random5000
+    0.356s for random10000
+    9.553s for random50000
+
+    // For reversed order
+    0.078s for reversed5000
+    0.281s for reversed10000
+    7.555s for reversed50000
+
+    // For sorted order
+    0.050s for sorted5000
+    0.063s for sorted10000
+    2.860s for sorted50000
+
+// Sort 2
+    sort2 uses: Merge sort
+
+    How do you know?:
+    // For random order
+    0.044s for random5000
+    0.101s for random10000
+    2.698s for random50000
+
+    // For reversed order
+    0.050s for reversed5000
+    0.096s for reversed10000
+    2.410s for reversed50000
+
+    // For sorted order
+    0.054s for sorted5000
+    0.094s for sorted10000
+    2.656s for sorted50000
+
+// Sort 3
+    sort3 uses: Selection sort
+
+    How do you know?:
+    // For random order
+    0.055s for random5000
+    0.200s for random10000
+    5.161s for random50000
+
+    // For reversed order
+    0.059s for reversed5000
+    0.162s for reversed10000
+    4.954s for reversed50000
+
+    // For sorted order
+    0.073s for sorted5000
+    0.248s for sorted10000
+    5.027s for sorted50000
+
