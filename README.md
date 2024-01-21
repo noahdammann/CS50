@@ -11,7 +11,7 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
   - This project holds a special place in my heart because it was the first program I wrote.
   - [See the project for yourself](https://scratch.mit.edu/projects/721329986/)
 
-## [Inheritance](/Week5/inheritance) - (Week 5)
+### [Inheritance](/Week5/inheritance) - (Week 5)
   - 
 
 ## My journey with CS50x
