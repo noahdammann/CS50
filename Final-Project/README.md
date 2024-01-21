@@ -1,11 +1,10 @@
 # Noah Dammann Blog
 
-This is my final CS50 edX project. On completion I have now finished Harvards Computer Science 50 module.
+This is my final CS50x project. On completion I have now finished Harvards Computer Science 50 module.
 
 #### Video Demo:
 
-https://youtu.be/sPLY_L9671Y
-This short 2 minute video has no audio and just simply runs through all of the pages of the website. It also shows the functionality of signing up to the newsletter as well as creating a new post.
+The video demo is no longer available on YouTube.
 
 #### Description:
 
