@@ -2,6 +2,7 @@
 
   - This program runs simulations of the FIFA World Cup based on their team ratings.
   - Extracts the team ratings from data in CSV file format.
+  - Prints the probabilities of each team winning.
 ```
 Brazil: 24.0% chance of winning
 Belgium: 19.1% chance of winning
