@@ -11,7 +11,8 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
   - This project holds a special place in my heart because it was the first program I wrote.
   - [See the project for yourself](https://scratch.mit.edu/projects/721329986/)
 
-### [Inheritance](/Week5/inheritance) - (Week 5)
-  - 
+### [Tournament](/Week6/Tournament) - (Week 6)
+  - Written in python programming language.
+  - Runs simulations of the FIFA World Cup based on their team ratings.
 
 ## My journey with CS50x
