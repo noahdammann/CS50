@@ -9,7 +9,7 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 ### [Game using Scratch](/Week0) - (Week 0)
   - Scratch is a user-friendly, visual programming language that introduces coding concepts through a drag-and-drop interface.
   - This project holds a special place in my heart because it was the first program I wrote.
-  - [See the project for yourself](https://scratch.mit.edu/projects/721329986/)
+  - [Link to project](https://scratch.mit.edu/projects/721329986/)
 
 ### [Tournament](/Week6/Tournament) - (Week 6)
   - Written in python programming language.
