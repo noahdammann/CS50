@@ -6,8 +6,9 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 
 ## Notable Projects
 
-### [Inheritance](/Week5/inheritance) (Week 5)
-  - 
+### [Game using Scratch](/Week5/inheritance) (Week 0)
+  - Scratch is a user-friendly, visual programming language that introduces coding concepts through a drag-and-drop interface.
+  - This project holds a special place in my heart because it was the first program I wrote.
 
 
 ## My journey with CS50x
