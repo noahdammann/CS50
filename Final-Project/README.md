@@ -14,5 +14,5 @@ I created the site using the django framework on the backend and HTML and CSS on
 
 Ultimately this project was not about creating a blogging website, instead it was a good opportunity for me to get some practice in creating websites and a useful addition to my portfolio of projects. I've learned more about how to use the django framework and write good code. This blog was created to be the final project for the CS50 computer science course of Harvard University. The course was the very first introduction I had to computer science and programming and looking back at where I came from I've learned so much. I'm grateful to professor Malan and his team for making CS50 happen and making it possible for me to learn how to program for free online. 
 
-#### Conclustion: 
+#### Conclusion: 
 This project symbolizes the end of my CS50 journey but marks the beginning of my programming journey. I hope to be able to put the skills that I learnt here to use in website development and other areas of programming.
