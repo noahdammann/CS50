@@ -6,7 +6,7 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 
 ## Notable Projects
 
-### [Inheritance](/Week5/inheritance) - Week 5
+### [Inheritance](/Week5/inheritance) (Week 5)
   - 
 
 
