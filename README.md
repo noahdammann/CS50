@@ -8,7 +8,11 @@ This repository contains 3 branches, one for each CS50 course.
 
 Each branch has a README.md file to assist you. Below is the README.md for CS50x.
 
----
+
+
+
+
+
 
 ## CS50x - Harvard's introduction to Computer Science course
 
