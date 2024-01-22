@@ -4,7 +4,6 @@
   - **CS50W** (CS50’s Web Programming with Python and JavaScript)
   - **CS50AI** (CS50’s Introduction to Artificial Intelligence with Python)
 
-Each branch has a README.md file to assist you. Below is the README.md for CS50x.
 
 &nbsp;
 &nbsp;
