@@ -21,7 +21,7 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 
 ## Conclusion
 
-CS50x was my introduction into the world of coding. Looking back on it now, it is self-evident that CS50x has prepared me exceptionally for a future in programming. In this course I learned many things and gained many skills, including the following:
+CS50x was my introduction into the world of programming. In this course I learned many things and gained many skills, including the following:
   - Experience programming in C (procedural) and python (object-oriented) programming languages.
   - SQL for storing and processing information in a database.
   - A broad understanding of how computers work (e.g. bits, data types and memory).
