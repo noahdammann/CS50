@@ -6,7 +6,7 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 
 ## Noteworthy Projects
 
-### [Scratch](/Week0) - (Week 0)
+### <ins>[Scratch](/Week0) - (Week 0)</ins>
   - Scratch is a user-friendly, visual programming language that introduces coding concepts through a drag-and-drop interface.
   - This project holds a special place in my heart because it was the first program I wrote.
 
