@@ -11,6 +11,10 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
   - This project holds a special place in my heart because it was the first program I wrote.
   - [Link to project](https://scratch.mit.edu/projects/721329986/)
 
+### [Inheritance](/Week5/inheritance) - (Week 5)
+  - Written in C programming language.
+  - Determines the inheritance of the blood type allele for each member of a family.
+
 ### [Tournament](/Week6/Tournament) - (Week 6)
   - Written in python programming language.
   - Runs simulations of the FIFA World Cup based on their team ratings.
