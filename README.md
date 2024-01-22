@@ -1,6 +1,4 @@
-# Introduction
-
-This repository contains 3 branches, one for each CS50 course.
+### This repository contains 3 branches, one for each CS50 course.
 
   - **CS50x** (Harvard's introduction to Computer Science course)
   - **CS50W** (CS50’s Web Programming with Python and JavaScript)
