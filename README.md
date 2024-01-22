@@ -1,9 +1,12 @@
-# Structure of this repository
+# Introduction
 
 This repository contains 3 branches, one for each of the CS50 courses I have completed.
-  - CS50x (Harvard's introduction to Computer Science course)
-  - CS50W (CS50’s Web Programming with Python and JavaScript)
-  - CS50AI (CS50’s Introduction to Artificial Intelligence with Python)
+
+  - **CS50x** (Harvard's introduction to Computer Science course)
+  - **CS50W** (CS50’s Web Programming with Python and JavaScript)
+  - **CS50AI** (CS50’s Introduction to Artificial Intelligence with Python)
+
+* insert sentence here * 
 
 # CS50x - Harvard's introduction to Computer Science course
 
