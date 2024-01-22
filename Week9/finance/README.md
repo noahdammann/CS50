@@ -3,10 +3,14 @@
 
 
 ## Prerequisites
-  - python3 - Download & Install Python.
-  - flask - Download & Install Flask.
+  - Python 3 - [Download & Install Python.](https://www.python.org/downloads/)
+  - Flask - [Download & Install Flask.](https://flask.palletsprojects.com/en/3.0.x/installation/)
+  - CS50 - [Download & Install CS50.](https://cs50.readthedocs.io/libraries/cs50/python/)
 ```
-sudo apt install python3-flask
+pip install Flask
+```
+```
+pip install cs50
 ```
 
 ## Usage
