@@ -18,4 +18,9 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
   - Written in python programming language.
   - Runs simulations of the FIFA World Cup based on their team ratings.
 
+### [Finance](/Week9/finance) - (Week 9)
+  - A full-stack web application built using Flask.
+  - Includes user authentication, database management and security.
+  - Utilizes external financial APIs to fetch real-time stock prices and market data.
+
 ## My journey with CS50x
