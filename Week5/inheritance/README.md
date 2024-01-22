@@ -1,7 +1,6 @@
 ## Overview
 
   - Simulates the inheritance of blood types for each member of a family.
-  - Randomly assigns alleles to parents and then determines blood type of offspring.
   - Prints 3 generations and their respective alleles:
 
 ```
