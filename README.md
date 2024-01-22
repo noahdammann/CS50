@@ -26,6 +26,6 @@ CS50x was my introduction into the world of programming. In this course I learne
   - SQL for storing and processing information in a database.
   - A broad understanding of how computers work (e.g. bits, data types and memory).
   - Familiarity with concepts like recursion, HTTP and APIs.
-  - Experience with version control using tools like Git and understanding the importance of collaboration in coding projects.
+  - Experience with Git for version control and collaboration.
   - Security fundamentals (e.g. SQL injection attacks, CSRF, password hashing and encryption).
 
