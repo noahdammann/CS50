@@ -19,4 +19,13 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
   - Includes user authentication, database management and security.
   - Utilizes external financial APIs to fetch real-time stock prices and market data.
 
-## My journey with CS50x
+## Conclusion
+
+CS50x was my introduction into the world of coding. Looking back on it now, it is self-evident that CS50x has prepared me exceptionally for a future in programming. In this course I learned many things and gained many skills, including the following:
+  - Experience programming in C (procedural) and python (object-oriented) programming languages.
+  - SQL for storing and processing information in a database.
+  - A broad understanding of how computers work (e.g. bits, data types and memory).
+  - Familiarity with concepts like recursion, HTTP and APIs.
+  - Experience with version control using tools like Git and understanding the importance of collaboration in coding projects.
+  - Security fundamentals (e.g. SQL injection attacks, CSRF, password hashing and encryption).
+
