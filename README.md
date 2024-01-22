@@ -4,7 +4,6 @@
   - **CS50W** (CS50’s Web Programming with Python and JavaScript)
   - **CS50AI** (CS50’s Introduction to Artificial Intelligence with Python)
 
-
 &nbsp;
 &nbsp;
 
