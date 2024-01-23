@@ -22,9 +22,9 @@
     cd CS50/Week5/traffic
    ```
 3. Install requirements
-  ```sh
+   ```sh
     pip3 install -r requirements.txt
-  ```
+   ```
 4. Unzip data set
    ```
      unzip gtsrb.zip
