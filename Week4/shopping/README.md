@@ -1,7 +1,7 @@
 ## About The Project
 
   - Trains an AI model based on supervised learning
-  - Uses data from sessions of an actual online store (10 000+)
+  - Uses data from sessions of an actual online store (over 10 000 sessions)
   - This data includes things like whether the user is a returning visitor, whether they have made purchases in the past, etc.
   - The AI is trained on this data and used to predict whether a customer will make a purchase
 
