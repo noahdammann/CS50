@@ -8,7 +8,8 @@
 
 ## Installation
 
-1. Clone the repo ```sh
+1. Clone the repo
+   ```sh
     git clone https://github.com/noahdammann/CS50 -b CS50AI
    ```
 2. Move into minesweeper ``` cd CS50/Week1/minesweeper ```
