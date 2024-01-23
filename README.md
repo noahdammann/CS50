@@ -12,7 +12,6 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
 #### [Shopping](/Week4/shopping) - (Week 4)
   - Trains an AI using supervised learning to predict whether online shopping customers will complete a purchase
   - Uses data from a real website
-  - AI can predict with over 90% accuracy
 
 #### [Traffic](/Week5/traffic) - (Week 5)
   - An AI that can label which traffic sign appears in a photo
