@@ -1,4 +1,4 @@
-## Overview
+## About The Project
 
   - An AI that can play minesweeper
 
