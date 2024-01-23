@@ -21,10 +21,10 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
 
 ## Conclusion
 
-In this course I have worked with AI in a wide variety of situations including:
+Throughout this course, I have gained valuable skills and knowledge in the following key areas:
   - Using AI to solve search problems
   - How AI can represent information and make inferences from it
-  - Taking into account uncertainty, and respresenting outcomes in terms of probability
+  - Taking into account uncertainty and respresenting outcomes in terms of probability
   - Optimization techniques including minimax, simulated annealing and arc consistency
   - Supervised and unsupervised learning
   - Building neural networks with TensorFlow 
