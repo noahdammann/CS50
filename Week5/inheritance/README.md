@@ -1,7 +1,6 @@
 ## Overview
 
-  - Simulates the inheritance of blood types for each member of a family.
-  - Prints 3 generations and their respective alleles:
+Simulates the inheritance of blood types for each member of a family and then prints 3 generations and their respective alleles:
 
 ```
 Child (Generation 0): blood type AO
