@@ -15,7 +15,7 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
 
 #### [Traffic](/Week5/traffic) - (Week 5)
   - Trains an AI to identify which traffic sign appears in a photograph
-  - The AI has an accuracy over 95%
+  - The AI has an accuracy of about 95%
 
 ## Conclusion
 
