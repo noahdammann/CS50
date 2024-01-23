@@ -16,27 +16,27 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 ## Noteworthy Projects
 
 #### [Scratch](/Week0) - (Week 0)
-  - Scratch is a user-friendly, visual programming language that introduces coding concepts through a drag-and-drop interface.
-  - This project holds a special place in my heart because it was the first program I wrote.
+  - Scratch is a user-friendly, visual programming language that introduces coding concepts through a drag-and-drop interface
+  - This project holds a special place in my heart because it was the first program I wrote
 
 #### [Inheritance](/Week5/inheritance) - (Week 5)
-  - Written in C programming language.
-  - Determines the inheritance of the blood type allele for each member of a family.
+  - Written in C programming language
+  - Determines the inheritance of the blood type allele for each member of a family
 
 #### [Finance](/Week9/finance) - (Week 9)
-  - A full-stack web application built using Flask.
-  - Includes user authentication, database management and security.
-  - Utilizes external financial APIs to fetch real-time stock prices and market data.
+  - A full-stack web application built using Flask
+  - Includes user authentication, database management and security
+  - Utilizes external financial APIs to fetch real-time stock prices and market data
 
 ## Conclusion
 
 CS50x was my introduction into the world of programming. In this course I learned many things and gained many skills, including the following:
-  - Experience programming in C (procedural) and python (object-oriented) programming languages.
-  - SQL for storing and processing information in a database.
-  - Web development with Flask.
-  - A broad understanding of how computers work (e.g. bits, data types and memory).
-  - Familiarity with concepts like recursion, HTTP and APIs.
-  - Experience with Git for version control and collaboration.
-  - Security fundamentals (e.g. SQL injection attacks, CSRF, password hashing and encryption).
+  - Experience programming in C (procedural) and python (object-oriented) programming languages
+  - SQL for storing and processing information in a database
+  - Web development with Flask
+  - A broad understanding of how computers work (e.g. bits, data types and memory)
+  - Familiarity with concepts like recursion, HTTP and APIs
+  - Experience with Git for version control and collaboration
+  - Security fundamentals (e.g. SQL injection attacks, CSRF, password hashing and encryption)
   
 
