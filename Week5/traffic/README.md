@@ -1,5 +1,6 @@
 ## About The Project
 
+  - Trains an AI to identify which traffic sign appears in a photograph
   - Creates a convolutional neural network with multiple layers using TensorFlow
   - The neural network contains multiple convolutional and max-pooling layers
   - Achieved the best results for convolution by using 64 filters and a 2x2 kernel
