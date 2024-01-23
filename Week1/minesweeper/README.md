@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-  - Python 3
+  - Python 3 - [Download & Install Python 3](https://www.python.org/downloads/)
 
 ## Installation
 
