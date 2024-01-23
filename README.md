@@ -14,7 +14,7 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
   - Uses data from a real website
 
 #### [Traffic](/Week5/traffic) - (Week 5)
-  - An AI that can label which traffic sign appears in a photo
+  - Trains an AI to identify which traffic sign appears in a photograph
   - The AI has an accuracy over 95%
 
 ## Conclusion
