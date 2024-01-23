@@ -5,6 +5,7 @@
   - This data includes things like whether the user is a returning visitor, whether they have made purchases in the past, etc.
   - The AI is trained on this data and used to predict whether a customer will make a purchase
 
+Output:
 ```
 Correct Predictions: 4085
 Incorrect Predictions: 847
