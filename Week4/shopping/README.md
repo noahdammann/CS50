@@ -18,7 +18,7 @@ True Negative Rate: 90.33%
 
 ## Installation
 
-1. Clone the repo if you haven't already
+1. Clone the repo
    ```sh
     git clone https://github.com/noahdammann/CS50 -b CS50AI
    ```
