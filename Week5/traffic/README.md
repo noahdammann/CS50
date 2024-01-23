@@ -1,15 +1,37 @@
-## Traffic sign recognizing AI
+## About The Project
 
-The two functions I implemented are 'load_data' and 'get_model.'
+  - Creates a convolutional neural network with multiple layers using TensorFlow
+  - The neural network contains multiple convolutional and max-pooling layers
+  - Achieved the best results for convolution by using 64 filters and a 2x2 kernel
+  - Compared to 32 filters and a 3x3 kernel, it takes the model longer to train but is ultimately more accurate and less prone to over-fitting
+  - The nerual network contains dropout to prevent overfitting
+  
+## Prerequisites
 
-#### Load data
+  - Python 3 - [Download & Install Python 3](https://www.python.org/downloads/)
 
-For the first time I needed to access files and use Pythons 'os' module, but it wasn't long until I figured out how it worked. I then need to read and resize the image files into numpy arrays, which I did using the cv2 (open cv) module. I was able to do so by making use of the 'imread' and 'resize' functions, which I discovered in their documentation.
+## Installation
 
-#### Get model
+1. Clone the repo
+   ```sh
+    git clone https://github.com/noahdammann/CS50 -b CS50AI
+   ```
+2. Move into traffic
+   ```sh
+    cd CS50/Week5/traffic
+   ```
+3. Install requirements
+  ```sh
+    pip3 install -r requirements.txt
+  ```
+4. Unzip data set
+   ```
+     unzip gtsrb.zip
+   ```
+   
+## Usage
 
-The 'get_model' function creates a compiled convolutional neural network model using TensorFlow. I added multiple convolutional and max-pooling layers, which made the model more accurate with each repeat. Then to make the model more robust I added in some dropout to prevent overfitting. I assigned 43 output nodes to the neural network to correlate with the 43 categories of road signs in our database. 
+```
+  python traffic.py gtsrb
+```
 
-#### Playing around with different numbers
-
-I found the best results for convolution by using 64 filters and a 2x2 kernel. Compared to 32 filters and a 3x3 kernel, it takes the model longer to train but is ultimately more accurate and less prone to over-fitting.
