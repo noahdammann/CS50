@@ -6,18 +6,17 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
 
 ## Noteworthy Projects
 
-#### [Scratch](/Week0) - (Week 0)
-  - Scratch is a user-friendly, visual programming language that introduces coding concepts through a drag-and-drop interface
-  - This project holds a special place in my heart because it was the first program I wrote
+#### [Minesweeper](/Week1/minesweeper) - (Week 1)
+  - Programmed an AI to play minesweeper
 
-#### [Inheritance](/Week5/inheritance) - (Week 5)
-  - Written in C programming language
-  - Determines the inheritance of the blood type allele for each member of a family
+#### [Shopping](/Week4/shopping) - (Week 4)
+  - Trains an AI using supervised learning to predict whether online shopping customers will complete a purchase
+  - Uses data from a real website
+  - AI can predict with over 90% accuracy
 
-#### [Finance](/Week9/finance) - (Week 9)
-  - A full-stack web application built using Flask
-  - Includes user authentication, database management and security
-  - Utilizes external financial APIs to fetch real-time stock prices and market data
+#### [Traffic](/Week5/traffic) - (Week 5)
+  - An AI that can label which traffic sign appears in a photo
+  - The AI has an accuracy over 95%
 
 ## Conclusion
 
