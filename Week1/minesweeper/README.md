@@ -13,7 +13,7 @@
     git clone https://github.com/noahdammann/CS50 -b CS50AI
    ```
 2. Move into minesweeper
-  ```sh
+   ```sh
     cd CS50/Week1/minesweeper
    ```
 3. Download requirements
