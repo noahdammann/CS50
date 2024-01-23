@@ -1,6 +1,6 @@
 ## Overview
 
-    - Simulates the inheritance of blood types for each member of a family
+Simulates the inheritance of blood types for each member of a family
 
 ```
 Child (Generation 0): blood type AO
