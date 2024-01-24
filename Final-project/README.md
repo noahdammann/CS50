@@ -29,7 +29,7 @@ Since this application is run using django, this file structure follows the same
    ```sh
    git clone https://github.com/noahdammann/CS50 -b CS50W
    ```
-2. Move into blog directory
+2. Move into project directory
    ```sh
    cd CS50/Final-project
    ```
