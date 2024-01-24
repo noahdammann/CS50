@@ -24,3 +24,12 @@ This course picks up where CS50x leaves off, diving more deeply into the design 
 
 ## Conclusion
 
+ Through this course I learned a great deal about web development, here is a summary of what I've learnt:
+  - HTML and CSS proficiency
+  - Using Git for version control
+  - Developing websites with Python
+  - Implementing web applications using Django
+  - SQLite for database operations
+  - Creating an interactive site using JavaScript
+  - Testing CI/CD fundamentals (continuous integration/continuous deployment)
+  - Addressing the scalability and security of websites
