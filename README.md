@@ -12,12 +12,15 @@ This course picks up where CS50x leaves off, diving more deeply into the design 
     
 #### [Mail](/Mail) - Week 3
   - A web email client
+  - Can send/receive emails which are stored locally on a SQLite database
 
 #### [Network](/Network) - Week 4
   - Simple social media application
+  - Users can create their own posts and like other people's posts
 
 #### [Final Project](/Final-project) Week 5
   - A full-stack web application built using Django
+  - Features a visually appealing and well-organized layout
 
 ## Conclusion
 
