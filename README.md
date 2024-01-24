@@ -6,16 +6,17 @@ This course picks up where CS50x leaves off, diving more deeply into the design 
 
 ## Noteworth Projects
 
-#### [Wiki](/Wiki)
-  - A website similar to Wikipedia
+#### [Wiki](/Wiki) - Week 1
+  - An online encyclopedia similar to Wikipedia
+  - Uses markdown as a light-weight markup language to store encyclopedia entries
     
-#### [Mail](/Mail)
+#### [Mail](/Mail) - Week 3
   - A web email client
 
-#### [Network](/Network)
+#### [Network](/Network) - Week 4
   - Simple social media application
 
-#### [Final Project](/Final-project)
+#### [Final Project](/Final-project) Week 5
   - A full-stack web application built using Django
 
 ## Conclusion
