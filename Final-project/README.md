@@ -20,7 +20,7 @@ Since this application is run using django, this file structure follows the same
   - Python 3 - [Download & Install Python](https://www.python.org/downloads/)
   - Django
     ```sh
-      pip3 install django
+    pip3 install django
     ```
 
 ### Usage
