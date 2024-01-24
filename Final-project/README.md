@@ -35,5 +35,5 @@ Since this application is run using django, this file structure follows the same
    ```
 3. Start local server
    ```sh
-     python manage.py runserver
+   python manage.py runserver
    ```
