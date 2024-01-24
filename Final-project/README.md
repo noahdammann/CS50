@@ -27,12 +27,13 @@ Since this application is run using django, this file structure follows the same
 
 1. Clone this repo
    ```sh
-     git clone https://github.com/noahdammann/CS50 -b CS50W
+   git clone https://github.com/noahdammann/CS50 -b CS50W
    ```
 2. Move into blog directory
    ```sh
-     cd CS50/Final-project
+   cd CS50/Final-project
    ```
 3. Start local server
    ```sh
      python manage.py runserver
+   ```
