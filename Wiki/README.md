@@ -1,6 +1,7 @@
 ## Overview
 
   - Online Wiki for information
+  - Uses markdown to store encyclopedia entries using a light-weight markup language
   - Users can create or edit pages on any topic
   - Has a feature that will direct you to a random page
     
