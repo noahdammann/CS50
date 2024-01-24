@@ -6,17 +6,17 @@ This course picks up where CS50x leaves off, diving more deeply into the design 
 
 ## Noteworth Projects
 
+#### [Wiki](/Wiki)
+  - A website similar to Wikipedia
+    
 #### [Mail](/Mail)
-  - A mail client web application
-  - Features user authentication and database management
+  - A web email client
 
-#### [Inheritance](/Week5/inheritance) - (Week 5)
-  - Written in C programming language
-  - Determines the inheritance of the blood type allele for each member of a family
+#### [Network](/Network)
+  - Simple social media application
 
 #### [Final Project](/Final-project)
   - A full-stack web application built using Django
-  - Visually appealing and well-organized layout
 
 ## Conclusion
 
