@@ -11,22 +11,22 @@ The video demo is no longer available on YouTube.
   - Python 3 - [Download & Install Python](https://www.python.org/downloads/)
   - Django
   ```sh
-    pip3 install django
+  pip3 install django
   ```
 
 ## Usage 
 
 1. Clone this repo
    ```sh
-     git clone https://github.com/noahdammann/CS50 -b CS50x
+   git clone https://github.com/noahdammann/CS50 -b CS50x
    ```
 2. Move into blog directory
    ```sh
-     cd CS50/Final-Project/blog
+   cd CS50/Final-Project/blog
    ```
 3. Start local server
    ```sh
-     python manage.py runserver
+   python manage.py runserver
    ```
 
 ## Technical Aspect
