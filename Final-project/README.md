@@ -10,9 +10,29 @@ This application is nothing like any other project created during web50. Instead
 
 It uses a wide variety of techniques to complete its functionality. Including an API call and a series of complex javascript functions. It uses a scalable vector graphic to depict progress towards a users goal which allows the visual impact to work as required.
 
-### Contents of files
+## Contents of files
 
 Since this application is run using django, this file structure follows the same pattern as all the previous web50 projects. We have an app called 'program' within a project called fitness. The program app consists of 5 different html templates and one layout page. Linked to this are 4 corresponding static stylesheets written in CSS. There is only one model, User, which inherits from AbsractUser but with many additional fields e.g. weight, goal, end_date etc. This model is then registered within admin.py so that an administrator can access all of the data. There are 7 different url paths contained within urls.py. Each path is carefully constructed to only be accessible at the right time based on whether a user is authenticated or not. Views.py contains all the code to making the back-end of the server run smoothly and efficiently, including authentication processes and template rendering.
 
-### How to run application
-The application can be run the same as all django projects. Download the distribution code and then execute "python manage.py runserver" into your command line to run the application. Then in your browser go to your local server.
+## How to run application
+
+### Prerequisites
+  - Python 3 - [Download & Install Python](https://www.python.org/downloads/)
+  - Django
+    ```sh
+      pip3 install django
+    ```
+
+### Usage
+
+1. Clone this repo
+   ```sh
+     git clone https://github.com/noahdammann/CS50 -b CS50W
+   ```
+2. Move into blog directory
+   ```sh
+     cd CS50/Final-project
+   ```
+3. Start local server
+   ```sh
+     python manage.py runserver
