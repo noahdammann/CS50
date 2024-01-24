@@ -6,18 +6,17 @@ This course picks up where CS50x leaves off, diving more deeply into the design 
 
 ## Noteworth Projects
 
-#### [Scratch](/Week0) - (Week 0)
-  - Scratch is a user-friendly, visual programming language that introduces coding concepts through a drag-and-drop interface
-  - This project holds a special place in my heart because it was the first program I wrote
+#### [Mail](/Mail)
+  - A mail client web application
+  - Features user authentication and database management
 
 #### [Inheritance](/Week5/inheritance) - (Week 5)
   - Written in C programming language
   - Determines the inheritance of the blood type allele for each member of a family
 
-#### [Finance](/Week9/finance) - (Week 9)
-  - A full-stack web application built using Flask
-  - Includes user authentication, database management and security
-  - Utilizes external financial APIs to fetch real-time stock prices and market data
+#### [Final Project](/Final-project)
+  - A full-stack web application built using Django
+  - Visually appealing and well-organized layout
 
 ## Conclusion
 
