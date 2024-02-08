@@ -31,5 +31,5 @@ This course picks up where CS50x leaves off, diving more deeply into the design 
   - Implementing web applications using Django
   - SQLite for database operations
   - Creating an interactive site using JavaScript
-  - Testing CI/CD fundamentals (continuous integration/continuous deployment)
+  - CI/CD fundamentals (continuous integration/continuous deployment)
   - Addressing the scalability and security of websites
